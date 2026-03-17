@@ -39,7 +39,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 ### 🚀 Featured Engineering
 
-#### 🤖 Enterprise AI Code Reviewer Agent     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="WIP" (Work in Progress)" />
+#### 🤖 Enterprise AI Code Reviewer Agent > 🚧 **Status:** Currently in active development & testing
 *An automated, context-aware code review pipeline built to handle production-scale Pull Requests.*
 
 
