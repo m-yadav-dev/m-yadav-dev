@@ -39,7 +39,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 ### 🚀 Featured Engineering
 
-#### 🤖 Enterprise AI Code Reviewer Agent
+#### 🤖 Enterprise AI Code Reviewer Agent     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="WIP" (Work in Progress)" />
 *An automated, context-aware code review pipeline built to handle production-scale Pull Requests.*
 
 
@@ -50,7 +50,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 | **AI Hallucinations** | Implemented advanced **RAG** (Retrieval-Augmented Generation) by vectorising the codebase, allowing the AI to verify dependencies before flagging errors. |
 | **Developer Fatigue** | Tuned system prompts to strictly ignore linting/syntax styling, forcing the AI to hunt exclusively for complex logic bugs and security flaws. |
 
-#### 💬 High-Performance MERN Chat Architecture
+#### 💬 High-Performance MERN Chat Architecture 
 *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 
