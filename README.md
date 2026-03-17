@@ -2,6 +2,16 @@
 # 👋 Hi, I'm a Full-Stack Developer & AI Automation Enthusiast
 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/-manish-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manishyaduvanshi8294@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 I build scalable full-stack applications and engineer AI-driven workflows to eliminate repetitive tasks. Currently pursuing my BCA and enrolled in the NxtWave program, I am passionate about writing clean code, exploring data structures, and optimising developer productivity through generative AI.
 
 ---
