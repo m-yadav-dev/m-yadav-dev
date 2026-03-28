@@ -39,8 +39,8 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 ### 🚀 Featured Engineering
    
-  <a href="https://github.com/m-yadav-dev/ai-code-reviewer-agent">
-   Enterprise AI Code Reviewer Agent  
+  <a href="https://github.com/m-yadav-dev/ai-code-reviewer-agent" target="_blank">
+   ### Enterprise AI Code Reviewer Agent  
   </a>
   
 *An automated, context-aware code review pipeline built to handle production-scale Pull Requests.*
