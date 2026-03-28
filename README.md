@@ -55,7 +55,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 | **AI Hallucinations** | Implemented advanced **RAG** (Retrieval-Augmented Generation) by vectorising the codebase, allowing the AI to verify dependencies before flagging errors. |
 | **Developer Fatigue** | Tuned system prompts to strictly ignore linting/syntax styling, forcing the AI to hunt exclusively for complex logic bugs and security flaws. |
 
-#### 💬 High-Performance MERN Chat Architecture > 🚧 **Status:** Currently in active development & testing
+#### 💬 MERN Chat Architecture > 🚧 **Status:** Currently in active development & testing
 *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 
