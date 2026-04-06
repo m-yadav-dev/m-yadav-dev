@@ -73,7 +73,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 I am actively exploring **Internships** and **Freelance Opportunities** in Full-Stack Development. I am also highly open to collaborating with peers on open-source MERN projects or AI workflow automations. 
 
 * 🔭 **Currently Learning:** Data Structures & Algorithms (C++)
-* 🤝 **Open to:** MERN Stack Collaboration, Backend Optimisation, Prompt Engineering
+* 🤝 **Open to:** MERN Stack Collaboration, Backend Optimisation
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-yadav-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="m-yadav-dev's GitHub Stats" />
