@@ -63,8 +63,10 @@ I am actively exploring **Internships** and **Freelance Opportunities** in Full-
 * 🔭 **Currently Learning:** Data Structures & Algorithms (C++)
 * 🤝 **Open to:** MERN Stack Collaboration, Backend Optimisation
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-yadav-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="m-yadav-dev's GitHub Stats" />
-  <br/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yadav-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
