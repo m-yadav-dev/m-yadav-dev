@@ -1,6 +1,4 @@
-
 # 👋 Hi, I'm a Full-Stack Developer & AI Automation Enthusiast
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/-manish-yadav" target="_blank">
@@ -11,12 +9,12 @@
   </a>
 </p>
 
-
 I build scalable full-stack applications and engineer AI-driven workflows to eliminate repetitive tasks. Currently pursuing my BCA and enrolled in the NxtWave program, I am passionate about writing clean code, exploring data structures, and optimising developer productivity through generative AI.
 
 ---
 
 ### 💻 Tech Stack & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -38,34 +36,26 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 ---
 
 ### 🚀 Featured Engineering
-   
-### Enterprise AI Code Reviewer Agent <a href="https://github.com/m-yadav-dev/ai-code-reviewer-agent" target="_blank">### readme.md</a>
-  *An automated code review pipeline that knows what it's doing and can handle Pull Requests at the production level.*
 
-
+#### [Enterprise AI Code Reviewer Agent](https://github.com/m-yadav-dev/ai-code-reviewer-agent)
+*An automated code review pipeline that knows what it's doing and can handle Pull Requests at the production level.*
 
 | Challenge | Enterprise Fix |
+| :--- | :--- |
+| **Context Exhaustion** | Engineered smart chunking and file-filtering logic to parse 10,000+ line PRs without hitting LLM token limits. |
+| **AI Hallucinations** | Used advanced **RAG** (Retrieval-Augmented Generation) to vectorise the codebase, letting the AI check dependencies before flagging errors. |
+| **Developer Fatigue** | Adjusted system prompts to ignore linting and syntax styling, focusing the AI only on logic bugs and security holes. |
 
-**Context Exhaustion** | Engineered smart chunking and file-filtering logic to parse 10,000+ line PRs without hitting LLM token limits. | 
-
-**AI Hallucinations** | We used advanced **RAG** (Retrieval-Augmented Generation) to vectorise the codebase, which lets the AI check dependencies before flagging errors. | 
-
-**Developer Fatigue** | Adjusted system prompts to completely ignore linting and syntax styling, making the AI only look for hard-to-find logic bugs and security holes. |
-
-
-
-#### 💬 MERN Chat Architecture > 🚧 **Status:** Currently in active development & testing
-*A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
+#### 💬 MERN Chat Architecture 
+> 🚧 **Status:** Currently in active development & testing
+> *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 | Problem | Engineering Solution |
+| :--- | :--- |
+| **Rigid Data Structures** | Designed a **polymorphic database schema** that grows from text to media (images, PDFs) without schema changes. |
+| **Sync Latency** | **Zustand** for Optimistic UI state management, showing messages instantly while background processes resolve. |
 
-**Rigid Data Structures** | Designed a **polymorphic database schema** that can grow from text to media (like images and PDFs) without needing to be changed. |
-
-**Zustand** for Optimistic UI state management, which shows messages right away while waiting for the backend to fix the problem. |
 ---
-
-
-
 
 ### 🌱 Let's Connect & Collaborate
 I am actively exploring **Internships** and **Freelance Opportunities** in Full-Stack Development. I am also highly open to collaborating with peers on open-source MERN projects or AI workflow automations. 
@@ -73,14 +63,8 @@ I am actively exploring **Internships** and **Freelance Opportunities** in Full-
 * 🔭 **Currently Learning:** Data Structures & Algorithms (C++)
 * 🤝 **Open to:** MERN Stack Collaboration, Backend Optimisation
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-yadav-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="m-yadav-dev's GitHub Stats" />
-</div>
-
-
-
-<div align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yadav-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-
+</p>
