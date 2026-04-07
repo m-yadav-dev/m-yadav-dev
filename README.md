@@ -39,35 +39,30 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 ### 🚀 Featured Engineering
    
-   ### Enterprise AI Code Reviewer Agent
-   
-  <a href="https://github.com/m-yadav-dev/ai-code-reviewer-agent" target="_blank">
-       ### readme.md 
-  </a>
-  
-*An automated, context-aware code review pipeline built to handle production-scale Pull Requests.*
+### Enterprise AI Code Reviewer Agent <a href="https://github.com/m-yadav-dev/ai-code-reviewer-agent" target="_blank">### readme.md</a>
+  *An automated code review pipeline that knows what it's doing and can handle Pull Requests at the production level.*
 
 
 
-| Challenge | Enterprise Fix |
-| :--- | :--- |
-| **Context Exhaustion** | Engineered smart chunking and file-filtering logic to parse 10,000+ line PRs without hitting LLM token limits. |
-| **AI Hallucinations** | Implemented advanced **RAG** (Retrieval-Augmented Generation) by vectorising the codebase, allowing the AI to verify dependencies before flagging errors. |
-| **Developer Fatigue** | Tuned system prompts to strictly ignore linting/syntax styling, forcing the AI to hunt exclusively for complex logic bugs and security flaws. |
+| Challenge | Enterprise Fix | | :--- | :--- | | 
+
+**Context Exhaustion** | Engineered smart chunking and file-filtering logic to parse 10,000+ line PRs without hitting LLM token limits. | 
+**AI Hallucinations** | We used advanced **RAG** (Retrieval-Augmented Generation) to vectorise the codebase, which lets the AI check dependencies before flagging errors. | 
+**Developer Fatigue** | Adjusted system prompts to completely ignore linting and syntax styling, making the AI only look for hard-to-find logic bugs and security holes. |
+
+
 
 #### 💬 MERN Chat Architecture > 🚧 **Status:** Currently in active development & testing
 *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
+| Problem | Engineering Solution |
+**Rigid Data Structures** | Designed a **polymorphic database schema** that can grow from text to media (like images and PDFs) without needing to be changed. |
 
-
-| Challenge | Engineering Solution |
-| :--- | :--- |
-| **Feedback Latency** | Replaced HTTP polling with **Socket.io** (WebSockets) for synchronous push mechanisms and real-time typing indicators. |
-| **Rigid Data Structures** | Architected a **polymorphic database schema** capable of scaling from text to media (images, PDFs) without restructuring. |
-| **Perceived Lag** | Integrated **Zustand** for Optimistic UI state management, rendering messages instantly while awaiting backend resolution. |
-| **Cognitive Overload** | Designed a minimalistic, mobile-first deep slate UI with auto-scroll to prioritise user focus. |
-
+**Perceived Lag** | Used **Zustand** for Optimistic UI state management, which shows messages right away while waiting for the backend to fix the problem. |
 ---
+
+
+
 
 ### 🌱 Let's Connect & Collaborate
 I am actively exploring **Internships** and **Freelance Opportunities** in Full-Stack Development. I am also highly open to collaborating with peers on open-source MERN projects or AI workflow automations. 
