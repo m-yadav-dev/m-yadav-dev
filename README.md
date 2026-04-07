@@ -44,10 +44,12 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 
 
-| Challenge | Enterprise Fix | | :--- | :--- | | 
+| Challenge | Enterprise Fix |
 
 **Context Exhaustion** | Engineered smart chunking and file-filtering logic to parse 10,000+ line PRs without hitting LLM token limits. | 
+
 **AI Hallucinations** | We used advanced **RAG** (Retrieval-Augmented Generation) to vectorise the codebase, which lets the AI check dependencies before flagging errors. | 
+
 **Developer Fatigue** | Adjusted system prompts to completely ignore linting and syntax styling, making the AI only look for hard-to-find logic bugs and security holes. |
 
 
@@ -56,9 +58,10 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 | Problem | Engineering Solution |
+
 **Rigid Data Structures** | Designed a **polymorphic database schema** that can grow from text to media (like images and PDFs) without needing to be changed. |
 
-**Perceived Lag** | Used **Zustand** for Optimistic UI state management, which shows messages right away while waiting for the backend to fix the problem. |
+**Zustand** for Optimistic UI state management, which shows messages right away while waiting for the backend to fix the problem. |
 ---
 
 
