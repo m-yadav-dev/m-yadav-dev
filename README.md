@@ -48,7 +48,6 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 
 #### 💬 MERN Chat Architecture 
 > 👉 **Live URL:** https://chatrivo-app.duckdns.org/
-> *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 | Problem | Engineering Solution |
 | :--- | :--- |
