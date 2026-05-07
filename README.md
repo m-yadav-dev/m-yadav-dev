@@ -47,7 +47,7 @@ I build scalable full-stack applications and engineer AI-driven workflows to eli
 | **Developer Fatigue** | Adjusted system prompts to ignore linting and syntax styling, focusing the AI only on logic bugs and security holes. |
 
 #### 💬 MERN Chat Architecture 
-> 🚧 **Status:** Currently in active development & testing
+> 🚧 **Live URL:** https://chatrivo-app.duckdns.org/
 > *A real-time, zero-latency communication platform designed for cognitive ease and scalability.*
 
 | Problem | Engineering Solution |
